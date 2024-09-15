@@ -31,7 +31,7 @@ Database description: The database purposes is to manage a depot of constuction 
      ![image](https://github.com/user-attachments/assets/c0fde079-2101-4101-896d-cdc0e4762859) ![image](https://github.com/user-attachments/assets/b188894a-13e5-4cb4-b7ad-68761fc596f2)
 
 
-               
+     <li>DML (Data Manipulation Language)</li>
 
         </ul>
                   
