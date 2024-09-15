@@ -23,7 +23,8 @@ Database description: The database purposes is to manage a depot of constuction 
      
       Creating database depozit_marfa and all it's aforementioned tables:
      
-      ![image](https://github.com/user-attachments/assets/2f8d3927-fb00-43e3-96a2-1a29d175db94) ![image](https://github.com/user-attachments/assets/0180ed81-32db-4fd6-b3e0-11765f988589)
+      ![image](https://github.com/user-attachments/assets/2f8d3927-fb00-43e3-96a2-1a29d175db94) ![image](https://github.com/user-attachments/assets/0180ed81-32db-4fd6-b3e0-11765f988589) ![image](https://github.com/user-attachments/assets/1242d47b-5235-42a2-99d8-0eec2af688e2)
+
 
      
 
