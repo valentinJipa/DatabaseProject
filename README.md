@@ -16,4 +16,4 @@ Database description: The database purposes is to manage a depot of constuction 
                 <li>table marfuri is connected to comenzi through a one to many relation which was implemented with marfuri.id_marfa as primary key and comenzi.id_produs as foreign key</li>
                 <li>table clienti is connected to comenzi through a one to many relation which was implemented with clienti.id_client as primary key and comenzi.id_client as foreign key</li>
         </ul>
-2. Database Queries
+  2. Database Queries
