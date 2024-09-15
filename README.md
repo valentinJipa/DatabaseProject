@@ -20,7 +20,9 @@ Database description: The database purposes is to manage a depot of constuction 
          <ul>
                 <li>DDL (Data Definition Language)</li>
                 The following instructions were written in the scope of CREATING the structure of the database
-      Creating database depozit_marfa and all it's aforementioned tables: 
+     
+      Creating database depozit_marfa and all it's aforementioned tables:
+     
       ![image](https://github.com/user-attachments/assets/2f8d3927-fb00-43e3-96a2-1a29d175db94)
 
                
