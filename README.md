@@ -17,3 +17,8 @@ Database description: The database purposes is to manage a depot of constuction 
                 <li>table clienti is connected to comenzi through a one to many relation which was implemented with clienti.id_client as primary key and comenzi.id_client as foreign key</li>
         </ul>
   2. Database Queries
+         <ul>
+                <li>DDL (Data Definition Language)</li>
+        </ul>
+
+     The following instructions were written in the scope of CREATING the structure of the database
