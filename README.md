@@ -27,6 +27,7 @@ Database description: The database purposes is to manage a depot of constuction 
      ![image](https://github.com/user-attachments/assets/b44d550e-7afd-4f5b-aff3-c14005eb00ce) ![image](https://github.com/user-attachments/assets/d5e8534d-5257-419f-99b7-af63b1ae9747) ![image](https://github.com/user-attachments/assets/e67a82e1-fc30-4ac3-a5ce-8d95fa810769) ![image](https://github.com/user-attachments/assets/1242d47b-5235-42a2-99d8-0eec2af688e2)
 
      After the database and the tables have been created, a few ALTER instructions were written in order to update the structure of the database, as described below:
+     
      ![image](https://github.com/user-attachments/assets/c0fde079-2101-4101-896d-cdc0e4762859)
 
                
