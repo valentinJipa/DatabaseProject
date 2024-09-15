@@ -19,6 +19,4 @@ Database description: The database purposes is to manage a depot of constuction 
   2. Database Queries
          <ul>
                 <li>DDL (Data Definition Language)</li>
-        </ul>
-
-     The following instructions were written in the scope of CREATING the structure of the database
+        </ul>The following instructions were written in the scope of CREATING the structure of the database
