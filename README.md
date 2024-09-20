@@ -39,6 +39,9 @@ Database description: The database purposes is to manage a depot of constuction 
      ![image](https://github.com/user-attachments/assets/db803da6-6f0c-4a8f-b65a-8ca270ea557c) ![image](https://github.com/user-attachments/assets/772c2175-67e4-4848-a1d7-f0c04b5b9957)
      ![image](https://github.com/user-attachments/assets/3f6c1ebd-1de7-4995-bd13-bf0b2794fde9)
 
+     After the insert, in order to prepare the data to be better suited for the testing process, I updated some data
+
+     ![image](https://github.com/user-attachments/assets/66ce36af-4b4c-4932-8232-7c94b0728941)
 
 
 
