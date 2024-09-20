@@ -34,7 +34,9 @@ Database description: The database purposes is to manage a depot of constuction 
      <li>DML (Data Manipulation Language)</li>
      In order to use the database I populated the tables with various data necessary in order to perform queries. In the testing process, this necessary data is identified in the Test Design phase and created in the Test Implementation phase.
      Below you can find all the insert instructions that were created in the scope of this project:
-     ![image](https://github.com/user-attachments/assets/3610aa2b-65a4-4194-a4eb-b2ce7870b5ed) ![image](https://github.com/user-attachments/assets/797632dc-1c79-40fb-a244-705d8dd118e4)
+     ![image](https://github.com/user-attachments/assets/93025d17-cbfa-4224-b6b3-c6a4d889f0ca) ![image](https://github.com/user-attachments/assets/541beaa0-c3b1-4678-96ca-d1e98b778d87)
+
+
 
 
 
