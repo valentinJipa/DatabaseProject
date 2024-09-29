@@ -34,6 +34,10 @@ Database description: The database purposes is to manage a depot of constuction 
 
 
      <li>DML (Data Manipulation Language)</li>
+     I deleted some data that was duplicated entries to preserve the database clean:
+
+     ![image](https://github.com/user-attachments/assets/da61f906-cd3e-4555-9929-8d036c6625dc)
+
      In order to use the database I populated the tables with various data necessary in order to perform queries. In the testing process, this necessary data is identified in the Test Design phase and created in the Test Implementation phase.
      Below you can find all the insert instructions that were created in the scope of this project:
      
