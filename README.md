@@ -52,6 +52,7 @@ Database description: The database purposes is to manage a depot of constuction 
       I deleted some data that was duplicated entries to preserve the database clean:
 
      ![image](https://github.com/user-attachments/assets/da61f906-cd3e-4555-9929-8d036c6625dc)
+     
      In order to simulate various scenarios that might happen in real life I created the following queries that would cover multiple potential real-life situations:
      
      - Here I performed 2 queries to show the name and id of all items in table 'marfuri', and show show all the items for only 1 type of pruduct
@@ -86,8 +87,16 @@ Database description: The database purposes is to manage a depot of constuction 
 
      ![image](https://github.com/user-attachments/assets/817a96c6-20a1-43eb-8210-bc8341c78699)
 
+     - Here I performed a query and a subquery where one displays the id, date and value of orders in a certain time period. And the other displays the orders from a specific client
+    
+      ![image](https://github.com/user-attachments/assets/d4758ae7-b30d-4012-b329-642aec3d554e)
+
+     results:
+
+     ![image](https://github.com/user-attachments/assets/7d46e57b-e57c-4da7-9281-5bf7e85e69e4) ![image](https://github.com/user-attachments/assets/2de1b8c1-04c0-4d68-bde5-988cc8b547b1)
 
 
+     
      
 
 
