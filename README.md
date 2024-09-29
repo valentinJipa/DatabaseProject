@@ -65,6 +65,14 @@ Database description: The database purposes is to manage a depot of constuction 
 
      ![image](https://github.com/user-attachments/assets/cad3a93f-1178-4a17-9e4e-beea0dc5076d) ![image](https://github.com/user-attachments/assets/2c2ba7f9-7837-4937-84fd-38d3fc94c53e)
 
+     - Here I performed a subquery, where it shows the id, type and and quantity of the products from table 'lemn_masiv' where it displays the entry with the lowest quantity
+     
+     ![image](https://github.com/user-attachments/assets/807aa7bb-7cff-423c-aba8-f52ac934bd78)
+
+     results:
+
+     ![image](https://github.com/user-attachments/assets/01c91ba9-d9b7-48bc-9ec0-669f8554e4cd)
+
 
 
      
