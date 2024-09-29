@@ -48,6 +48,7 @@ Database description: The database purposes is to manage a depot of constuction 
 
      <li>DQL (Data Query Language)</li>
      In order to simulate various scenarios that might happen in real life I created the following queries that would cover multiple potential real-life situations:
+     
      - Here I performed 2 queries to show the name and id of all items in table 'marfuri', and show show all the items for only 1 type of pruduct
      
      ![image](https://github.com/user-attachments/assets/4fa6b6ec-ef00-48ac-a0e0-34b489417e2d)
