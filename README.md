@@ -57,6 +57,17 @@ Database description: The database purposes is to manage a depot of constuction 
      
      ![image](https://github.com/user-attachments/assets/df180cb2-137b-4fc8-8ae8-86dc3ff85cd3) ![image](https://github.com/user-attachments/assets/4a36f01c-af04-4a2f-a755-af27df8dc059)
 
+     - Here one query shows the type, quantity, price for the items where is smaller then 5 and one where the lenght and width have specific values
+
+     ![image](https://github.com/user-attachments/assets/5709f35b-b307-4d32-8e7a-a9482961b972)
+
+     results:
+
+     ![image](https://github.com/user-attachments/assets/cad3a93f-1178-4a17-9e4e-beea0dc5076d) ![image](https://github.com/user-attachments/assets/2c2ba7f9-7837-4937-84fd-38d3fc94c53e)
+
+
+
+     
 
 
 
