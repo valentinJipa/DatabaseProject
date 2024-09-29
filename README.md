@@ -51,6 +51,7 @@ Database description: The database purposes is to manage a depot of constuction 
      - Here I performed 2 queries to show the name and id of all items in table 'marfuri', and show show all the items for only 1 type of pruduct
      
      ![image](https://github.com/user-attachments/assets/4fa6b6ec-ef00-48ac-a0e0-34b489417e2d)
+     
      results: ![image](https://github.com/user-attachments/assets/df180cb2-137b-4fc8-8ae8-86dc3ff85cd3) ![image](https://github.com/user-attachments/assets/9df86090-efe9-46ad-b070-bbfcb6c342c9)
 
 
