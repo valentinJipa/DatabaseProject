@@ -73,6 +73,14 @@ Database description: The database purposes is to manage a depot of constuction 
 
      ![image](https://github.com/user-attachments/assets/01c91ba9-d9b7-48bc-9ec0-669f8554e4cd)
 
+     - Here the query shows different specifications for topcounteres from table 'lemn_masiv', order the the quantity of each item
+    
+     ![image](https://github.com/user-attachments/assets/2f3d0f19-228b-4a26-a373-50a215352d57)
+
+     results:
+
+     ![image](https://github.com/user-attachments/assets/817a96c6-20a1-43eb-8210-bc8341c78699)
+
 
 
      
