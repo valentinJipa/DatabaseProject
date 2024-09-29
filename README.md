@@ -55,7 +55,8 @@ Database description: The database purposes is to manage a depot of constuction 
      
      results:
      
-     ![image](https://github.com/user-attachments/assets/df180cb2-137b-4fc8-8ae8-86dc3ff85cd3) ![image](https://github.com/user-attachments/assets/9df86090-efe9-46ad-b070-bbfcb6c342c9)
+     ![image](https://github.com/user-attachments/assets/df180cb2-137b-4fc8-8ae8-86dc3ff85cd3) ![image](https://github.com/user-attachments/assets/4a36f01c-af04-4a2f-a755-af27df8dc059)
+
 
 
 
