@@ -95,12 +95,29 @@ Database description: The database purposes is to manage a depot of constuction 
 
      ![image](https://github.com/user-attachments/assets/7d46e57b-e57c-4da7-9281-5bf7e85e69e4) ![image](https://github.com/user-attachments/assets/8952b434-d68a-4856-95c8-9469f0cb156f)
 
+     - Next is an inner join where i joined two tables to give the first and last name, company name clients table and the date, value and adress from the orders table
+    
+      ![image](https://github.com/user-attachments/assets/d0b2498a-1a67-498a-8d42-9549202868ac)
 
+     results:
 
-     
-     
+     ![image](https://github.com/user-attachments/assets/6dfa7ae8-eb4c-4c27-a50d-df66fef3a75c)
 
+     - Here is an inner join between certain specifications from tables 'marfuri' and 'caramizi'
+    
+     ![image](https://github.com/user-attachments/assets/cf1afa87-e6c2-4f35-b77d-f5681dac6a13)
 
+     results:
+
+     ![image](https://github.com/user-attachments/assets/60524429-5020-4c85-96a8-6e750cdf84b7)
+
+     - Last query is an inner join between 3 tables. Here I am displaying the id product from an order with specifications, value of order, date and quantity, aswell as showing the quantity of the product that is in stock.
+    
+     ![image](https://github.com/user-attachments/assets/c41797fa-b2f3-4e15-98d7-2aa7e7ea3d84)
+
+     results:
+
+     ![image](https://github.com/user-attachments/assets/32b27477-8cd1-4990-a8b8-dd1ca8f44dfc)
 
   </ul>
 
