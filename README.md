@@ -8,6 +8,8 @@ Database description: The database purposes is to manage a depot of constuction 
      
      You can find below the database schema that was generated through Reverse Engineer and which contains all the tables and the relationships between them.
      
+     ![Diagrama_DB](https://github.com/user-attachments/assets/e6dcb59d-5bc0-458e-9bf5-dd59d7af50ee)
+
      The tables are connected in the following way:
            <ul>
                 <li>table lemn_masiv is connected to marfuri through a one to many relation which was implemented with lemn_masiv.id_lemn as primary key and marfuri.id_marfa_lemn as foreign key</li>
@@ -16,7 +18,7 @@ Database description: The database purposes is to manage a depot of constuction 
                 <li>table marfuri is connected to comenzi through a one to many relation which was implemented with marfuri.id_marfa as primary key and comenzi.id_produs as foreign key</li>
                 <li>table clienti is connected to comenzi through a one to many relation which was implemented with clienti.id_client as primary key and comenzi.id_client as foreign key</li>
         </ul>
-  2. Database Queries
+  3. Database Queries
          <ul>
                 <li>DDL (Data Definition Language)</li>
                 The following instructions were written in the scope of CREATING the structure of the database
